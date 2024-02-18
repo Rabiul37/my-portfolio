@@ -1,0 +1,10 @@
+.banner {
+  background-image: linear-gradient(to right, #ffffff05, #ffffff0c),
+    url("../assets/images/Banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slow {
+  transition: all 1s;
+}
